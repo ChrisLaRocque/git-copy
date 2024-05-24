@@ -1,10 +1,10 @@
 {
   "name": "git-copy-clone",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A CLI tool to clone GitHub repositories without Git information.",
   "main": "index.js",
   "bin": {
-    "clone-repo": "./bin/clone-repo"
+    "git-copy-clone": "./bin/git-copy.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
